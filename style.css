@@ -1,0 +1,389 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 200%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+#container{
+    position: absolute;
+    margin:center;
+    width: 900px;
+    height :1273px;
+   background: color #fdfbf5;;
+   background-image: url("../Journalcat/bgjournal.png");
+}
+
+#background{
+    position:absolute;
+    width:700px;
+    height:968px;
+    left:100px;
+    right: 100px;
+    top: 100px;
+   
+   
+    
+    
+    
+    
+}
+
+
+
+#spine{
+     position:absolute;
+    width:700px;
+    height:968px;
+    
+    
+    
+    
+}
+
+.spine1{
+     position:absolute;
+    width:700px;
+    height:968px;
+    background-image: url(../Journalcat/spine_1.png);
+    
+    
+    
+    
+}
+
+
+.spine2{
+     position:absolute;
+    width:700px;
+    height:968px;
+    background-image: url(../Journalcat/spine2.png);
+    
+    
+    
+}
+
+
+
+.spine3{
+     position:absolute;
+    width:700px;
+    height:968px;
+    background-image: url(../Journalcat/spine_3.png);
+    
+    
+    
+    
+}
+
+.spine4{
+    position:absolute;
+   width:700px;
+   height:968px;
+   background-image: url(../Journalcat/spine4.png);
+   
+   
+   
+}
+
+.spine5{
+    position:absolute;
+   width:700px;
+   height:968px;
+   background-image: url(../Journalcat/spine5.png);
+   
+   
+   
+   
+}
+
+.spine6{
+    position:absolute;
+   width:700px;
+   height:968px;
+   background-image: url(../Journalcat/spine6.png);
+   
+   
+   
+   
+}
+
+.spine7{
+    position:absolute;
+   width:700px;
+   height:968px;
+   background-image: url(../Journalcat/spine7.png);
+   
+   
+   
+   
+}
+
+.spine8{
+    position:absolute;
+   width:700px;
+   height:968px;
+   background-image: url(../Journalcat/spine8.png);
+   
+   
+   
+   
+}
+
+
+#body{
+    
+     position:absolute;
+    width:700px;
+    height:968px;
+    
+    
+    
+    
+}
+
+.body1{
+    
+    position:absolute;
+    width:700px;
+    height:968px;
+    background-image: url(../Journalcat/cover_1.png);
+}
+
+.body2{
+    
+    position:absolute;
+    width:700px;
+    height:968px;
+    background-image: url(../Journalcat/cover_2.png);
+}
+
+.body3{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_3.png);
+}
+
+.body4{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_4.png);
+}
+
+.body5{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_5.png);
+}
+
+.body6{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_6.png);
+}
+
+.body7{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_7.png);
+}
+
+.body8{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_8.png);
+}
+
+.body9{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_9.png);
+}
+
+.body10{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_10.png);
+}
+
+.body11{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_11.png);
+}
+
+.body12{
+    
+    position:absolute;
+    width:700x;
+    height:968px;
+    background-image: url(../Journalcat/cover_12.png);
+}
+
+#elasticband{
+     position:absolute;
+    width:700px;
+    height:968px;
+    
+    
+    
+    
+}
+
+.elasticband1{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_1.png);
+}
+
+.elasticband2{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_2.png);
+}
+
+
+.elasticband3{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_3.png);
+}
+
+.elasticband4{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_4.png);
+}
+
+.elasticband5{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_5.png);
+}
+
+
+.elasticband6{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_6.png);
+}
+
+
+.elasticband7{
+    
+    position:absolute;
+    width:700px;
+    height: 968px;
+    background-image: url(../Journalcat/elastic_7.png);
+}
+
+#nextspine{
+    position:absolute;
+    left:30px;
+    top:400px;
+}
+
+#nextbody{
+    position:absolute;
+    right:10px;
+    top:350px;
+}
+
+#nextelasticband{
+    position:absolute;
+    right:30px;
+    top:930px;
+}
+
+#prevspine{
+    position:absolute;
+    left:30px;
+    top:400px;
+}
+
+#prevbody{
+    position:absolute;
+    right:50px;
+    top:300px;
+}
+
+#prevelasticband{
+    position:absolute;
+    right:30px;
+    top:930px;
+}
